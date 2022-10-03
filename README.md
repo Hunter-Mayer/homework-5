@@ -1,7 +1,7 @@
 # Hunter Mayer Homework Challenge 5
 
 ## Description
-Add Here
+In this project I tried to create a workday schedule planner using the Moment.js library, and my knowledge of APIs and JS. 
 
 ### Acceptance Criteria
 GIVEN I am using a daily planner to create a schedule
