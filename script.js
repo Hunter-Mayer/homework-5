@@ -1,5 +1,5 @@
-//Global Variables
+//Global Variables, set current time
+var currentTime = document.getElementById('currentDay')
 var time = moment().format('MMMM Do YYYY, h:mm:ss a')
-var currentDay = moment().format('dddd')
+currentTime.innerText = time
 var saveBtnEl = document.querySelectorAll('saveBtn')
-
