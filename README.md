@@ -20,13 +20,13 @@ THEN the saved events persist
 
 ### Screenshot
 
-![screenshot](add here)
+![screenshot](/image/screencapture-file-C-Users-Hunter-code-Challenge-5-index-html-2022-10-03-17_40_19%20(1).png)
 
 
 
 ### Deployed Application Links
 
-Github Repo: Add here
+Github Repo: https://github.com/Hunter-Mayer/homework-5
 
 Github Page: Add here
 
