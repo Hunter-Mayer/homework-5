@@ -11,6 +11,7 @@ body {
     color: #000000;
     border-left: 1px solid black;
     padding: 10px;
+    width: 90%;
   }
   
   .jumbotron {
@@ -28,12 +29,13 @@ body {
   .time-block{
     text-align: center;
     border-radius: 15px;
+    width: 90%;
   }
   
   .row {
     white-space: pre-wrap;
     height: 80px;
-    border-top: 1px solid white;;
+    border-top: 1px solid white;
   }
   
   .hour {
