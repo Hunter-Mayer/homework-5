@@ -28,7 +28,7 @@ THEN the saved events persist
 
 Github Repo: https://github.com/Hunter-Mayer/homework-5
 
-Github Page: Add here
+Github Page: https://hunter-mayer.github.io/homework-5/
 
 ## Credits
 
